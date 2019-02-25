@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-dynamic-schemas",
+  "version": "1.0.0",
+  "description": "mongoDB dynamic schemas testing",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinushaNaween/mongoDB-dynamic-schemas.git"
+  },
+  "author": "Dinusha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinushaNaween/mongoDB-dynamic-schemas/issues"
+  },
+  "homepage": "https://github.com/DinushaNaween/mongoDB-dynamic-schemas#readme"
+}
